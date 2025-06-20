@@ -1,0 +1,7 @@
+Name: Uzair Haroon
+Age: 21
+Phy	 90
+Chem	 88
+Math	 86
+Average Marks: 88.0
+Grade: A
