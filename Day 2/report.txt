@@ -1,0 +1,6 @@
+Name: Uzair
+Age: 21
+Grade: A
+Report Card:
+Math: 85
+Science: 90
